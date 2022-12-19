@@ -1,7 +1,7 @@
-# Predicting CO2 Emissions Trend by Country
+# Predicting CO2 Emissions Trends by Country
 
-The 2015 Paris Agreement intends to keep global warming below 2℃ by 2100, with 1.5°C as a target. The majority of earlier evaluations of how plausible that is and what would be required to accomplish it were based on expert-based scenarios for the socioeconomic drivers of greenhouse gas emissions, and hence climate change. This project assisted in predicting the CO2 emissions per capita to corroborate the aforementioned Agreement.
+As we work towards the goals of the 2015 Paris Agreement to reduce global warming and achieve a target of 1.5°C by 2100, it is important to understand and predict the drivers of greenhouse gas emissions. This project aims to predict CO2 emissions per capita in order to support the efforts of the Paris Agreement.
 
 *Tools and Models - Jupyter Notebook, Worldbank API, GridSearchCV, RandomSearchCV, Random Forest, Mixer Effects Radom Forest, Matplotlib, Pandas, Scikit-Learn, Seaborn, NumPy, Plotly.*  
 
-**Note:** This project is a standalone project and required no data file to be attached. Kindly download the project and run as Jupyter file.
+**Note:** This project is a standalone project and does not require any additional data files. Simply download the project and run it as a Jupyter file to see the results.
